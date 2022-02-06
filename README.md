@@ -1,4 +1,4 @@
-![sukesh]()
+![sukesh](Sukesh 2)
 ## Sukesh Pavan Bitragunta
 
  * Phone number: 443-254-2823
