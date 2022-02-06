@@ -1,4 +1,4 @@
-![sukesh](Sukesh (2).jpeg)
+![sukesh](Sukesh.jpeg)
 ## Sukesh Pavan Bitragunta
 
  * Phone number: 443-254-2823
