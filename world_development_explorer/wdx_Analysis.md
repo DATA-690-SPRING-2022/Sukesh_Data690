@@ -7,4 +7,8 @@ Finacial sector plays a cruial role on economy of a country and it also helps us
 * Time Period : 2000 - 2018
 
 The below bar graph indicates the direct investment of foriegn countries to the respective countries and what percent of their GPD consits of this foreign direct investments.
-![](top_5.png)
+
+Malaysia had more than 2 pecent of foriegn direct investments that directly contributes th their GDP
+
+
+![](Percent_gdp.png)
