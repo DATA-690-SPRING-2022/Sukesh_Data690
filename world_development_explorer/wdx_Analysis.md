@@ -32,5 +32,8 @@ From observing the above chart we can conclude that among all the nations china 
 
 ![](portfolio.png)
 
-Any country can increse their GDP, by the foreign investements. The more the they foriegn investements the more they have the chance to develop the country and have a stable economy. There is also risk that the nation losses its foreign investors, the country losses its stability in economy and GDP.
+Any country can increse their GDP, by the foreign investements. The more the they foriegn investements the more they have the chance to develop the country and have a stable economy. There is also risk that, if the nation losses its foreign investors, the country losses its stability in economy and GDP.
 
+The chart clearly shows that the china had the highest foriegn investements compare to any other country, all other countries are plummeted compare to china. Georgia had an investement of four billion dollars from foriegn and Russian ferderation,Malaysia, Thailand have negative index by 2018. This tell us that the retuns that are gained from China are huge and more foriegn investors are showing interest to have a share in the China stock market. This foriegn investments also lead to increase in employment also. For instance, if a forien investor sets a company in China this would create employment in that area which will be beneficial to its citizens. In this way a foriegn investment can make big difference in the the countries economy and growth.
+
+![](indirect.png)
