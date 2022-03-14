@@ -24,10 +24,13 @@ This tell us that over the course of 2 decades Thaliand had progressed so much a
 
 ![](2018.png)
 
-Portfolio investments are the investments that are made on the stocks and debt securties by the individuals on the respective nations, this also tells us that on which countries had highest investments over the course of period.
+Portfolio investments are the investments that are made on the stocks and debt securties diretly by the individuals in their respective nations, this tell us that debts that are also  made to invest in the bussiness.
 
-The time series chart depicts how the portfolio investments are in these countries from 2000 to 2018 and what is their status. China had more portfolio investment till the year 2015 and had a steep decrement by the year 2018. Georgia had dosrn't gained or loss any investements from 2000 to 2018. Russian federation, Thailand and Malaysia had zig-zaw trend throughout the two decades. 
+The time series chart depicts how the portfolio investments are in these countries from 2000 to 2018 and what is their status. China had more portfolio investment till the year 2015 and had a steep decrement by the year 2018. Georgia residents had dosen't  invested in their stock markets from 2000 to 2018. Russian federation, Thailand and Malaysia had zig-zaw trend throughout the two decades and the investments that are made by the residents is less that 20 billion dollars by 2018. 
 
-From observing the above chart we can conclude that among all the nations china had more portfolio investemnts, but at present have some unstability.
+From observing the above chart we can conclude that among all the nations china had more portfolio investemnts from its residents, but at present have some unstability.
 
 ![](portfolio.png)
+
+Any country can increse their GDP, by the foreign investements. The more the they foriegn investements the more they have the chance to develop the country and have a stable economy. There is also risk that the nation losses its foreign investors, the country losses its stability in economy and GDP.
+
