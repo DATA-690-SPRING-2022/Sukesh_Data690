@@ -11,4 +11,4 @@ The below bar graph indicates the direct investment of foriegn countries to the 
 Malaysia had more than 2 pecent of foriegn direct investments that directly contributes th their GDP
 
 
-![](Percent_gdp.png)
+![](2018.png)
