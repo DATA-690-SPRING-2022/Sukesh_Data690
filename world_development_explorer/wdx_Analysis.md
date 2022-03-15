@@ -44,4 +44,6 @@ If a non-resident invest money in a country not only he can be beneficial but al
 
 ![](Communications.png)
 
-In both the charts it is very clear that as the foriegn investements are increasing the GDP, it also indirectly paving a path to grow the bussiness which is jelping to increase the economy.
+In both the charts it is very clear that as the foriegn investements are increasing the GDP, it also indirectly paving a path to grow the bussiness which is helping to increase the economy.
+
+Let us the see, how the correation between the investments that are made into the country and the various factors that helps to increase the economy of the country.
