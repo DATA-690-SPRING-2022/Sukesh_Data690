@@ -42,4 +42,6 @@ If a non-resident invest money in a country not only he can be beneficial but al
 
 ![](insurance.png)
 
-![](Comunications.png)
+![](Communications.png)
+
+In both the charts it is very clear that as the foriegn investements are increasing the GDP, it also indirectly paving a path to grow the bussiness which is jelping to increase the economy.
