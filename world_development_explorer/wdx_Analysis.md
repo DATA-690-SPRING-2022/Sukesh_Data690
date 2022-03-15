@@ -42,4 +42,4 @@ If a non-resident invest money in a country not only he can be beneficial but al
 
 ![](insurance.png)
 
-![](Communications.png)
+![](Comunications.png)
