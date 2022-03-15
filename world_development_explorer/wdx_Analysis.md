@@ -1,6 +1,10 @@
 # Finacial Sector and its impact on Economy&Growth and Social Development
 
-Finacial sector plays a cruial role on economy of a country and it also helps us to measure how much social development does a country has grown through that period. Direct investments from foreign countries increases the GDP which will help the nation to attain a stable economy.
+Finacial sector plays a cruial role on economy of a country and it also helps us to measure how much social development does a country has grown through that period. Direct investments from foreign countries increases the GDP which will help the nation to attain a stable economy. All the developed contries suchs as USA, England, Australia have a good finacial sector and that helped them have a steady economy and growth, we witnessed this in the pandemic itself. A country value depends upon its stock market and economy, understading how econmy helps the nation and its people is very important. By studying the economy and finacial sector one would gain knowledge how money is traded and this will help them personally to be successful in their personal life.
+
+### What questions do you have in mind and would like to answer?
+ 
+ what various factors are responsible for an increment or decrement of a econmy and how finacial sector works, I would like to find answer for these questions.
 
 * Countries: Malaysia, Georgia, Russian Federation, China, Thailand
 
@@ -47,3 +51,10 @@ If a non-resident invest money in a country not only he can be beneficial but al
 In both the charts it is very clear that as the foriegn investements are increasing the GDP, it also indirectly paving a path to grow the bussiness which is helping to increase the economy.
 
 Let us the see, how the correation between the investments that are made into the country and the various factors that helps to increase the economy of the country.
+
+![](correlation.png)
+
+As the heatmap illustrates, the foriegn direct investments have a strong correlation with all the factors that are resbonsilbe for economy&growth. 
+
+# Conclusion
+There are various factors that can infulential the finacial sector and one among them is foriegn investements and these foriegn investements are also helping the nations to increase their economy and growth. From these interpretation we can say that they are dependent on each other and there are other factors also that can infulence the economy and growth of a nation.
