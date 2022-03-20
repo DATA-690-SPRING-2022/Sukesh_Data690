@@ -37,9 +37,11 @@ From observing the above chart we can conclude that among all the nations China 
 
 Any country can increse their GDP, by the foreign investements. The more the they foriegn investements the more they have the chance to develop the country and have a stable economy. There is also risk that, if the nation losses its foreign investors, the country losses its stability in economy and GDP.
 
-The chart clearly shows that the china had the highest foriegn investements compare to any other country, all other countries are plummeted compare to china. Georgia had an investement of four billion dollars from foriegn and Russian ferderation,Malaysia, Thailand have negative index by 2018. This tell us that the retuns that are gained from China are huge and more foriegn investors are showing interest to have a share in the China stock market. This foriegn investments also lead to increase in employment also. For instance, if a forien investor sets a company in China this would create employment in that area which will be beneficial to its citizens. In this way a foriegn investment can make big difference in the the countries economy and growth.
+The chart clearly shows that the china had the highest foriegn investements compare to any other country, all other countries are plummeted compare to china. Georgia had an investement of four million dollars from foriegn and all other countries had a negative index by 2018. This tell us that the retuns that are gained from China are huge and more foriegn investors are showing interest to have a share in the China stock market. This foriegn investments also lead to increase in employment also. For instance, if a forien investor sets a company in China this would create employment in that area which will be beneficial to its citizens. In this way a foriegn investment can make big difference in the the countries economy and growth.
 
-![](indirect.png)
+Compare to overall portfolio investements, Japan had least portfolio equity which is a neagtive index of 41 billion dollars. These tells us that the Japan doesn't depend upon its foriegn investements.
+
+![](equity.png)
 
 If a non-resident invest money in a country not only he can be beneficial but also residents. If they set up a factory/firm/company they need a place to set it up and make sure they meet all the regulations shuch as insurance and many other things. These insurance are peovided by residents to non-residents which indirectly helping the country to bulid a economy on the insurance sector and also importing services such as communications, computer information and many other things.
 
