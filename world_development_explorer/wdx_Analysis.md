@@ -10,15 +10,14 @@ Finacial sector plays a cruial role on economy of a country and it also helps us
 
 * Time Period : 2000 - 2018
 
-The below bar graph indicates the direct investement of foriegn countries to the respective countries and what percent of their GPD consits of this foreign direct investments.
+The below pie charts indicates the direct investement of foriegn countries to the respective countries and what percent of their GPD consits of this foreign direct investments.
 ## In 2000
 
-Malaysia had more than 2 pecent of foriegn direct investements that directly contributes their GDP in year 2000
+Malaysia had more than 36 pecent of foriegn direct investements that directly contributes their GDP in year 2000
 
-Russian Federation had around 1.2 percent and China, Georgia, Thailand had less than 0.5 percent in 2000.
+Russian Federation had around 20.8 percent and the difference between Australia and Japan is ver minimal that they are almost equal. China, Georgia, Thailand, India, Sri Lanka had less than 10 percent in 2000. 
 
-
-![](10_bar_2000.png)
+![](10_pie_2000.png)
 
 ## In 2018 
 
@@ -26,7 +25,7 @@ By 2018 Thailand had nearly 3.5 percent of foriegn investements in their GDP, Ru
 
 This tell us that over the course of 2 decades Thaliand had progressed so much and china had lost its investors. This indicates that the Thailand had increment in their GDP and possibly in other aspects also.
 
-![](10_bar_2018.png)
+![](10_pie_2018.png)
 
 Portfolio investments are the investments that are made on the stocks and debt securties diretly by the individuals in their respective nations, this tell us that debts that are also  made to invest in the bussiness.
 
