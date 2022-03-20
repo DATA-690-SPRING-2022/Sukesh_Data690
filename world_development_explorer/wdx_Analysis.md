@@ -21,9 +21,9 @@ Russian Federation had around 20.8 percent and the difference between Australia 
 
 ## In 2018 
 
-By 2018 Thailand had nearly 3.5 percent of foriegn investements in their GDP, Russian Federation with 1.8 percent and Georgia and Malaysia are almost equal. China had least foriegn investement. 
+By 2018 Thailand had nearly 25.7 percent of foriegn investements in their GDP, Japan Had almost 24 percent Russian Federation with 14.2 percent and Georgia 12.5 percent and Malaysia are almost equal. China, India, Sri Lanka and Australia had least foriegn investement. 
 
-This tell us that over the course of 2 decades Thaliand had progressed so much and china had lost its investors. This indicates that the Thailand had increment in their GDP and possibly in other aspects also.
+This tell us that over the course of 2 decades Thaliand had progressed so much and china had lost its investors. This indicates that the Thailand had increment in their GDP and possibly in other aspects also. We can also conculde that the countries with less foriegn investements had most probably had a stble income which made them require very less foriegn investements
 
 ![](10_pie_2018.png)
 
