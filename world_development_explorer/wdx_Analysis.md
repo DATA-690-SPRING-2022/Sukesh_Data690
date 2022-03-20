@@ -45,7 +45,7 @@ Compare to overall portfolio investements, Japan had least portfolio equity whic
 
 If a non-resident invest money in a country not only he can be beneficial but also residents. If they set up a factory/firm/company they need a place to set it up and make sure they meet all the regulations shuch as insurance and many other things. These insurance are peovided by residents to non-residents which indirectly helping the country to bulid a economy on the insurance sector and also importing services such as communications, computer information and many other things.
 
-![](insurance.png)
+![](Insurance.png)
 
 ![](communications2.png)
 
