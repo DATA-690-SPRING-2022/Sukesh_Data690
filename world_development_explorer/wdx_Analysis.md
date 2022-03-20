@@ -29,11 +29,11 @@ This tell us that over the course of 2 decades Thaliand had progressed so much a
 
 Portfolio investments are the investments that are made on the stocks and debt securties diretly by the individuals in their respective nations, this tell us that debts that are also  made to invest in the bussiness.
 
-The time series chart depicts how the portfolio investments are in these countries from 2000 to 2018 and what is their status. China had more portfolio investment till the year 2015 and had a steep decrement by the year 2018. Georgia residents had dosen't  invested in their stock markets from 2000 to 2018. Russian federation, Thailand and Malaysia had zig-zaw trend throughout the two decades and the investments that are made by the residents is less that 20 billion dollars by 2018. 
+The time series chart depicts how the portfolio investments are in these countries from 2000 to 2018 and what is their status. Japan and China had more portfolio investment till the year 2016&2015 and had a steep decrement by the year 2018. Georgia residents had dosen't  invested in their stock markets from 2000 to 2018 and had a downfall. By the year 2018, only japan had highest portfolio investements and the rest of the countries are in same interval between 10-20 billion dollars and China had a huge decrement.
 
-From observing the above chart we can conclude that among all the nations china had more portfolio investemnts from its residents, but at present have some unstability.
+From observing the above chart we can conclude that among all the nations China and Japan had more portfolio investemnts from its residents, but at present China have some unstability and Japan was having gradual increment.
 
-![](newplot(1).png)
+![](Port.png)
 
 Any country can increse their GDP, by the foreign investements. The more the they foriegn investements the more they have the chance to develop the country and have a stable economy. There is also risk that, if the nation losses its foreign investors, the country losses its stability in economy and GDP.
 
