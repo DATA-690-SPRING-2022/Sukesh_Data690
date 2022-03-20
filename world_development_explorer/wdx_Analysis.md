@@ -18,7 +18,7 @@ Malaysia had more than 2 pecent of foriegn direct investements that directly con
 Russian Federation had around 1.2 percent and China, Georgia, Thailand had less than 0.5 percent in 2000.
 
 
-![](2000.png)
+![](10_bar_2000.png)
 
 ## In 2018 
 
@@ -26,7 +26,7 @@ By 2018 Thailand had nearly 3.5 percent of foriegn investements in their GDP, Ru
 
 This tell us that over the course of 2 decades Thaliand had progressed so much and china had lost its investors. This indicates that the Thailand had increment in their GDP and possibly in other aspects also.
 
-![](2018.png)
+![](10_bar_2018.png)
 
 Portfolio investments are the investments that are made on the stocks and debt securties diretly by the individuals in their respective nations, this tell us that debts that are also  made to invest in the bussiness.
 
