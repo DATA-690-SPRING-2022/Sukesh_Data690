@@ -53,7 +53,7 @@ In both the charts it is very clear that as the foriegn investements are increas
 
 Let us the see, how the correation between the investments that are made into the country and the various factors that helps to increase the economy of the country.
 
-![](correlation.png)
+![](newplot.png)
 
 As the heatmap illustrates, the foriegn direct investments have a strong correlation with all the factors that are resbonsilbe for economy&growth. 
 
