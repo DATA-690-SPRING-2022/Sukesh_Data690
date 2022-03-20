@@ -33,7 +33,7 @@ The time series chart depicts how the portfolio investments are in these countri
 
 From observing the above chart we can conclude that among all the nations china had more portfolio investemnts from its residents, but at present have some unstability.
 
-![](portfolio.png)
+![](port.png)
 
 Any country can increse their GDP, by the foreign investements. The more the they foriegn investements the more they have the chance to develop the country and have a stable economy. There is also risk that, if the nation losses its foreign investors, the country losses its stability in economy and GDP.
 
