@@ -1,0 +1,167 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2000,-486136277.288962,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2001,7388129184.94164,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2002,464547048.845178,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2003,12446167748.1519,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2004,-24585965975.668,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2005,9668321863.7767,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+6,2006,14032276724.0281,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+7,2007,14096721122.938,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+8,2008,19794714780.9506,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+9,2009,34461080653.9809,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+10,2010,13149531227.6513,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+11,2011,1307736452.53723,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+12,2012,14324824732.7054,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+13,2013,15560112652.5442,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+14,2014,10742937990.5052,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+15,2015,13771755649.5191,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+16,2016,18288567404.499,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+17,2017,15654919838.732,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+18,2018,-7199135172.9349,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+19,2000,1197881.99927332,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+20,2001,-3475016.54237531,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+21,2002,-1365094.92329722,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+22,2003,1630080.79411755,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+23,2004,4258444.10068082,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+24,2005,19520520.669622,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+25,2010,-53915649.7975774,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+26,2011,50246309.3272446,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+27,2012,133582922.84566,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+28,2013,261862399.264987,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+29,2014,357721288.102773,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+30,2015,-104994999.426847,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+31,2016,114334779.106299,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+32,2017,258081454.046438,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+33,2018,-32669788.3827968,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+34,2000,6912000000.0,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+35,2001,849000000.0,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+36,2002,2249000000.0,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+37,2003,7729000000.0,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+38,2004,10923200000.0,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+39,2005,20569000000.0,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+40,2006,42861200000.0,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+41,2007,18478120465.0192,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+42,2008,8464027990.96817,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+43,2009,29116669021.7513,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+44,2010,31357093655.533,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+45,2011,5308427622.574,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+46,2012,29902702074.1387,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+47,2013,32594970774.1324,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+48,2014,51915788939.8445,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+49,2015,14964496565.6,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+50,2016,23416073023.4231,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+51,2017,36208879301.31,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+52,2018,60667928466.48,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+53,2000,0.0,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+54,2001,0.0,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+55,2002,0.0,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+56,2003,0.0,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+57,2004,0.0,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+58,2005,2500000.0,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+59,2006,142508594.73,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+60,2007,33715081.94,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+61,2008,114705688.94,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+62,2009,11674011.09,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+63,2010,-22020531.07,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+64,2011,-7182776.41,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+65,2012,73576360.3,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+66,2013,1312865.78,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+67,2014,209590686.96,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+68,2015,4851885.7,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+69,2016,-3578495.22,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+70,2017,-1986241.95,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+71,2018,4453497.72,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+72,2000,2481311864.4947,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+73,2001,2949583338.55138,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+74,2002,1063391576.38029,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+75,2003,8216187274.33701,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+76,2004,9053979533.38134,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+77,2005,12151206547.739,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+78,2006,9509114657.71346,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+79,2007,32862817217.0827,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+80,2008,-15030005084.7088,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+81,2009,24688929527.5496,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+82,2010,30442226311.2953,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+83,2011,-4048294106.03908,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+84,2012,22809104593.4462,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+85,2013,19891607286.6922,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+86,2014,12369281294.9454,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+87,2015,1932581388.28165,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+88,2016,2336743636.48134,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+89,2017,5928064111.04438,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+90,2018,-4361005877.37179,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+91,2000,-1285970962.41701,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+92,2001,39100776785.6179,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+93,2002,-16689552683.0968,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+94,2003,87775125021.2094,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+95,2004,98279635804.7708,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+96,2005,131315273751.341,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+97,2006,71437018625.5922,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+98,2007,45454662461.4815,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+99,2008,-69691958098.9389,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+100,2009,12431826605.5296,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+101,2010,40328237340.0434,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+102,2011,5644539995.81056,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+103,2012,34941063883.5549,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+104,2013,169753009829.742,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+105,2014,32969269487.1728,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+106,2015,11272390991.9653,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+107,2016,-44844850859.3359,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+108,2017,16471994748.8411,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+109,2018,-41678881715.7543,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+110,2000,150200000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+111,2001,542440000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+112,2002,2626180000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+113,2003,421840000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+114,2004,255740000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+115,2005,-163270000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+116,2006,7234450000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+117,2007,18399240000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+118,2008,-15383090000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+119,2009,3762720000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+120,2010,-4885280000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+121,2011,-9795690000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+122,2012,1162400000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+123,2013,-7625040000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+124,2014,-12966280000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+125,2015,-5538270000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+126,2016,-1788020000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+127,2017,-7939870000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+128,2018,-4163860000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+129,2001,-34690000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+130,2002,-52630000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+131,2003,-143200000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+132,2004,-100350000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+133,2005,-215500000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+134,2006,-304000000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+135,2007,-322010000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+136,2008,-487900000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+137,2009,-381500000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+138,2010,-1048530000.0,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+139,2011,-171408609.378536,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+140,2012,272350971.843787,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+141,2013,225680547.264148,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+142,2014,178061373.425482,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+143,2015,-60123100.9024812,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+144,2016,24368776.2416764,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+145,2017,358638656.660148,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+146,2018,-4401080.52634251,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+147,2000,900457171.004239,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+148,2001,351522976.304754,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+149,2002,538954637.727765,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+150,2003,1786452799.49058,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+151,2004,1319155852.75306,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+152,2005,6250383026.5,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+153,2006,5410245254.5,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+154,2007,7230585047.8,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+155,2008,-9441823507.40001,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+156,2009,9548264469.59999,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+157,2010,2397768147.9,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+158,2011,22895120.6999998,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+159,2012,84663431.069351,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+160,2013,-3293353914.98953,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+161,2014,-5811449015.5736,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+162,2015,-8969392289.79198,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+163,2016,-786102217.123508,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+164,2017,598390518.35961,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+165,2018,-7101366724.79116,BX.PEF.TOTL.CD.WD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
