@@ -1,0 +1,46 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2018,0.0192563657,BM.KLT.DINV.WD.GD.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2018,0.0070099679000000005,BM.KLT.DINV.WD.GD.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2,2018,1.0293519593,BM.KLT.DINV.WD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+3,2018,1.6682527447000002,BM.KLT.DINV.WD.GD.ZS,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+4,2018,0.42270703530000003,BM.KLT.DINV.WD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+5,2018,3.1808963603000002,BM.KLT.DINV.WD.GD.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+6,2018,1.6068756719000001,BM.KLT.DINV.WD.GD.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+7,2018,1.8932199064000002,BM.KLT.DINV.WD.GD.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+8,2018,0.0771421369,BM.KLT.DINV.WD.GD.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+9,2018,-7199135172.9349,BX.PEF.TOTL.CD.WD,AUS,Australia,East Asia & Pacific,High income,Not classified
+10,2018,-32669788.3827968,BX.PEF.TOTL.CD.WD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+11,2018,60667928466.48,BX.PEF.TOTL.CD.WD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2018,4453497.72,BX.PEF.TOTL.CD.WD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+13,2018,-4361005877.37179,BX.PEF.TOTL.CD.WD,IND,India,South Asia,Lower middle income,IBRD
+14,2018,-41678881715.7543,BX.PEF.TOTL.CD.WD,JPN,Japan,East Asia & Pacific,High income,Not classified
+15,2018,-1172523576.80258,BX.PEF.TOTL.CD.WD,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+16,2018,-4163860000.0,BX.PEF.TOTL.CD.WD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+17,2018,-4401080.52634251,BX.PEF.TOTL.CD.WD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+18,2018,3.7022954710000002,BM.GSR.INSF.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+19,2018,16.5367005549,BM.GSR.INSF.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+20,2018,2.594966653,BM.GSR.INSF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+21,2018,6.9112815054,BM.GSR.INSF.ZS,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+22,2018,4.5072775865,BM.GSR.INSF.ZS,IND,India,South Asia,Lower middle income,IBRD
+23,2018,7.4652040256,BM.GSR.INSF.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+24,2018,6.9259709888,BM.GSR.INSF.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+25,2018,2.9962207584,BM.GSR.INSF.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+26,2018,11.8161142049,BM.GSR.INSF.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+27,2018,14855578627.9278,BN.KLT.PTXL.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+28,2018,-22454139.713541,BN.KLT.PTXL.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+29,2018,-106873525546.722,BN.KLT.PTXL.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+30,2018,47642764.29,BN.KLT.PTXL.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+31,2018,9597939591.47163,BN.KLT.PTXL.CD,IND,India,South Asia,Lower middle income,IBRD
+32,2018,92911832022.2757,BN.KLT.PTXL.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+33,2018,12431150395.9499,BN.KLT.PTXL.CD,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+34,2018,7593190000.0,BN.KLT.PTXL.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+35,2018,-129138167.099544,BN.KLT.PTXL.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+36,2018,27.280196634,BM.GSR.CMCP.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+37,2018,16.8403040037,BM.GSR.CMCP.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+38,2018,23.894444965,BM.GSR.CMCP.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+39,2018,13.7292682133,BM.GSR.CMCP.ZS,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+40,2018,49.0667152975,BM.GSR.CMCP.ZS,IND,India,South Asia,Lower middle income,IBRD
+41,2018,63.5755338089,BM.GSR.CMCP.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+42,2018,39.096235103,BM.GSR.CMCP.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+43,2018,44.6760725445,BM.GSR.CMCP.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+44,2018,14.4720108684,BM.GSR.CMCP.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
